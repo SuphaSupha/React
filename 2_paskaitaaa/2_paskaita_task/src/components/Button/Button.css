@@ -1,0 +1,12 @@
+.button-wrapper {
+    padding: 12px;
+    }
+    
+    .button {
+        color: white;
+        background-color: rgb(0, 255, 247);
+        padding: 12px 52px;
+        border-radius: 8px;
+        border: none;
+       
+    }

@@ -1,0 +1,23 @@
+.btn {
+    padding: 14px 10px;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 5px;
+    margin: 4px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.btn:hover {
+    opacity: 0.75;
+}
+
+.contained {
+    background-color: rgb(0, 149, 255);
+    color: white;
+}
+
+.outlined {
+    color: rgb(0, 149, 255);
+    border: 1px solid rgb(0, 149, 255);
+}

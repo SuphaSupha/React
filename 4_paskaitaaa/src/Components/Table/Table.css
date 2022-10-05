@@ -1,0 +1,18 @@
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+tbody {
+    text-align: center;
+   
+}
+table {
+     border: 1px solid black;
+}
+
+
+.table {
+    display: flex;
+    justify-content: center;
+}

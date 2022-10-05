@@ -1,0 +1,24 @@
+
+.hero-wrapper {
+    background-image: url('https://commonslibrary.parliament.uk/content/uploads/2018/02/The_City_London-scaled.jpg');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.wrapp {
+    color: white;
+    text-align: center;
+}
+
+.wrapp p {
+    margin-left: 50px;
+    width: 60%;
+}
+

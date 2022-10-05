@@ -1,0 +1,12 @@
+.cards {
+    display: flex; 
+    align-items: center;
+justify-content: space-around;}
+
+.card {
+    width: 24%;
+}
+
+.center {
+    align-items: center;
+}

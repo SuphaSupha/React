@@ -1,0 +1,22 @@
+.hero-wrapper {
+    background-color: rgb(6, 148, 196);
+    padding: 16px;
+}
+.wrapp {
+    margin: 24px;
+    color: white;
+}
+
+.red-hero {
+    background-color: rgb(255, 0, 0);
+    padding: 40px;
+}
+
+.blue-hero {
+    background-color: blue;
+    padding: 40px;
+}
+.green-hero {
+    background-color: rgb(0, 255, 21);
+    padding: 40px;
+}

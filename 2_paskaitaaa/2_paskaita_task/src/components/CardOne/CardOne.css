@@ -1,0 +1,19 @@
+.card {
+    margin: 12px;
+    border: 1px solid rgba(128, 128, 128, 0.465);
+    background-color: white;
+}
+
+
+
+
+.card img {
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.card h2 {
+    text-align: center;
+
+}

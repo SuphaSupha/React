@@ -1,0 +1,44 @@
+.weekday {
+    margin: 10px;
+    padding: 10px;
+    background-color: blueviolet;
+}
+
+.active {
+    background-color: lightsalmon;
+}
+
+.todo-list {
+    margin-top: 40px;
+}
+
+.todo-input{
+    margin: 10px;
+    padding: 10px;
+}
+
+.square {
+    width: 40px;
+    height: 40px;
+    background-color: green;
+}
+.square2 {
+    width: 80px;
+    height: 80px;
+    background-color: green;
+}
+.square3 {
+    width: 120px;
+    height: 120px;
+    background-color: green;
+}
+.square4 {
+    width: 160px;
+    height:160px;
+    background-color: green;
+}
+.square5 {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
