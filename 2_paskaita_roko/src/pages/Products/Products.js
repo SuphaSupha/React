@@ -157,7 +157,7 @@ const Products = () => {
 
       <br />
       <h2>{myname}</h2>
-      <button onClick={() => setMyname(random.replaceAll("_", " "))}>
+      <button  onClick={() => setMyname(random.replaceAll("_", " "))}>
         Generate random name
       </button>
 

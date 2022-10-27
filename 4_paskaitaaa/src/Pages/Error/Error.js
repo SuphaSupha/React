@@ -1,9 +1,26 @@
-const Error = () => {
+import styled from "styled-components";
+import Breathe from "../../Components/Breathe/Breathe";
+
+const Container = styled.div`
+  height: 712px;
+  background-color: #f9f9f9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+`;
+
+const Error = (textOne, textTwo, textThree, textFour, textFive, bgColor) => {
   return (
-    <img
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0bAS3eesPhhejhLCm7MJr26noRhngCG8i-_Vyvfkg1b4oROHwkOFNdOxVsxxnwfAYdv4&usqp=CAU"
-      alt="AJSjd"
-    ></img>
+    <Container>
+      <Breathe
+        bgColor="#f9f9f9"
+        textOne="404"
+        textTwo="Page"
+        textThree="Not"
+        textFour="Found"
+        textFive="..."
+      ></Breathe>
+    </Container>
   );
 };
 

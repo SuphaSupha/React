@@ -28,7 +28,7 @@ const Add = () => {
   return (
     <div>
       <Navigation />
-      <h1>viso</h1>
+      <h1>Add order</h1>
       <form>
         <label>People:</label>
         <input
